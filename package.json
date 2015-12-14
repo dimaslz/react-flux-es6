@@ -1,0 +1,46 @@
+{
+  "name": "react-omerce",
+  "version": "1.0.0",
+  "description": "Test React flux",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router-component": "^0.28.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.10.0",
+    "browserify": "^12.0.1",
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-cli": "^1.0.0",
+    "gulp-duration": "0.0.0",
+    "gulp-if": "^2.0.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "lodash": "^3.10.1",
+    "node-notifier": "^4.4.0",
+    "run-sequence": "^1.1.5",
+    "utils-merge": "^1.0.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "vinyl-transform": "^1.0.0",
+    "watchify": "^3.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "flux",
+    "ecommerce"
+  ],
+  "author": "dimaslz",
+  "license": "ISC"
+}
